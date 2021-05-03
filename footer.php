@@ -1,1 +1,5 @@
-<h1>This is the footer area</h1>
+<p>This is the footer area</p>
+
+<?php wp_footer(); ?>
+</body>
+</html>
